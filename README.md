@@ -11,5 +11,5 @@ pip install -r requirements.txt
 python -m jupyter notebook
 
 ### To run the model service
-export FLASK_APP=app/__init__.py
+export FLASK_APP=app/__init__.py. 
 flask run
